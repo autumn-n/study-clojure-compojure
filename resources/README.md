@@ -1,0 +1,1 @@
+* production 환경에 포함는 lein 의 기본 resources 디렉토리.

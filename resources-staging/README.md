@@ -1,0 +1,1 @@
+* lein 의 `env/staging` profile 이 바라보는 resources 디렉토리.
