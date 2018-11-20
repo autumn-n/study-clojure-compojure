@@ -13,6 +13,8 @@
 
   :plugins []
 
+  :repl-options {:init-ns study-clojure-compojure.core :init (run)}
+
   ;; https://github.com/technomancy/leiningen/blob/master/doc/PROFILES.md
   :profiles {:dev     {:dependencies [[javax.servlet/servlet-api "2.5"]
                                       [ring/ring-mock "0.3.0"]]
